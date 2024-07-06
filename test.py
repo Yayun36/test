@@ -9,3 +9,4 @@ c = 3
 print(C)
 d = 6
 print(d)
+print("master")
